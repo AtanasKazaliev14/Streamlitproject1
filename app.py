@@ -1,2 +1,2 @@
-streamlit
-pandas
+import streamlit
+import pandas
